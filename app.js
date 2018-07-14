@@ -7,7 +7,7 @@ function lastThreeItems(array) {
 }
 
 console.log('firstFourItems');
-//why did we not call the functions here to display?
+//why did we not call the functions here to display? //
 
 /* From here down, you are not expected to
    understand.... for now :)
