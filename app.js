@@ -1,5 +1,5 @@
 function firstFourItems(array) {
-return array[0,4];
+  return array[0,4];
 }
 
 function lastThreeItems(array) {
@@ -10,7 +10,7 @@ console.log('firstFourItems');
 //why did we not call the functions here to display?
 
 /* From here down, you are not expected to
-   understand.... for now :)  
+   understand.... for now :)
 
 
    Nothing to see here!
