@@ -1,12 +1,13 @@
 function firstFourItems(array) {
-  return array[0,4];
+  return array.slice(0,4);
 }
 
 function lastThreeItems(array) {
-  return array[-3];
+  return array.slice(-3)s];
 }
 
 console.log('firstFourItems');
+console.log('lastThreeItems');
 //why did we not call the functions here to display? //
 
 /* From here down, you are not expected to
